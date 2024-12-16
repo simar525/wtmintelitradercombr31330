@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://intelitrader-erq9r.daftpage.com/$1"
+ }
+  ]
+}
